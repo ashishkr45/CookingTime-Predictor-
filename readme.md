@@ -15,7 +15,7 @@ A desktop application built with Python that predicts the estimated cooking time
 
 ## 📸 Screenshots
 
-*(Insert screenshots here if available)*
+*(screenshots will be added shortely)*
 
 ---
 
